@@ -75,10 +75,12 @@ Banks face significant revenue loss due to customer churn. Identifying at-risk c
 
 ## 📸 🔥 **Screenshots**
 
-Image link 1
+Image link 1 ( pivot table )  https://github.com/rajkishordash50/Bank-Customer-Churn-Analysis-Dashboard/blob/main/pivot%20table%20bank%20churn%20data.png
 
-Image Link 2
+Image Link 2    https://github.com/rajkishordash50/Bank-Customer-Churn-Analysis-Dashboard/blob/main/Data%20analysis%20tool%20pack%20bank%20churn%20data.png
 
-Image Link 3
+Image Link 3   https://github.com/rajkishordash50/Bank-Customer-Churn-Analysis-Dashboard/blob/main/Top%2010%20assignment%20questions%20bank%20churn%20data.png
+
+
 
 
